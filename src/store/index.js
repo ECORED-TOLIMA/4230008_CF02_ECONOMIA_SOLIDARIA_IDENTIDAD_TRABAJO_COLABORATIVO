@@ -1,4 +1,4 @@
-import { createStore } from 'vuex'
+import { createStore } from "vuex";
 
 export default createStore({
   state: {
@@ -11,24 +11,24 @@ export default createStore({
   },
   mutations: {
     toggleMenu(state, newVal) {
-      state.menuOpen = newVal
+      state.menuOpen = newVal;
     },
     increment(state) {
-      state.loading++
+      state.loading++;
     },
     decrease(state) {
-      state.loading--
+      state.loading--;
     },
   },
   actions: {
     toggleMenu({ commit }, newVal) {
-      commit('toggleMenu', newVal)
+      commit("toggleMenu", newVal);
     },
     increment({ commit }) {
-      commit('increment')
+      commit("increment");
     },
     decrease({ commit }) {
-      commit('decrease')
+      commit("decrease");
     },
   },
-})
+});
