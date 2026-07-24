@@ -157,7 +157,7 @@
           
       p.mb-4 Estos tipos de recursos permiten reconocer que el territorio ofrece más que bienes materiales: también cuenta con capacidades de organización, apoyo económico, infraestructura y relaciones comunitarias. Cuando estos elementos se valoran de manera conjunta, las organizaciones solidarias pueden tomar decisiones más pertinentes y fortalecer sus iniciativas con mayor sostenibilidad.
 
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4.recurso-ruta-territorial
         .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t4/img-15.png', alt='')

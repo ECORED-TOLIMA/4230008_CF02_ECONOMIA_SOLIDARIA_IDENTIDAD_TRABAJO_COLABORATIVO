@@ -940,9 +940,35 @@ figcaption
 .tabla-a.color-acento-contenido thead
   border-color: #FEDBE0
 
+@media (min-width: 992px) and (max-width: 1400px)
+  .recurso-ruta-territorial
+    align-items: flex-start !important
 
+    > .col-lg-4
+      flex: 0 0 38% !important
+      max-width: 38% !important
 
+      figure
+        margin: 0 !important
+        height: 100%
 
+        img
+          width: 100% !important
+          max-width: none !important
+          height: auto !important
+          display: block
+          object-fit: contain
+
+    > .col-lg-8
+      flex: 0 0 62% !important
+      max-width: 62% !important
+
+.audio.color-secundario .audio__btn, .tarjeta-audio.color-secundario .audio__btn, .tarjeta-dialogo.color-secundario .audio__btn
+  background-color: #3A552A
+
+.audio-custom .tarjeta-audio__btn:hover, .audio-custom .tarjeta-audio__boton:hover, .audio-custom .audio__btn:hover, .audio-custom button:hover
+  background-color: #3A552A !important
+  border-color: #3A552A !important
 
 
 

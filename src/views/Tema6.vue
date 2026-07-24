@@ -223,42 +223,42 @@
           PasosB.color-acento-botones 
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Recursos necesarios
+                h3 Recursos necesarios
                 p Permite identificar medios humanos, físicos, económicos y sociales requeridos para implementar la propuesta. También diferencia lo disponible de aquello que debe gestionarse. Por ejemplo, una comunidad del Cauca puede requerir semillas, herramientas, asistencia técnica y apoyo municipal para desarrollar una huerta agroecológica comunitaria sostenible, participativa, local y solidaria territorialmente responsable.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t6/img-19.png', alt='')
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Gestión de apoyos
+                h3 Gestión de apoyos
                 p Orienta la búsqueda de financiación, acompañamiento técnico, formación o cooperación institucional cuando la organización no cuenta con todos los medios requeridos. Por ejemplo, una asociación de mujeres rurales de Santander puede gestionar apoyo del SENA y la alcaldía para fortalecer procesos de transformación y comercialización de alimentos locales artesanales sostenibles.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t6/img-20.png', alt='')
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Responsabilidades
+                h3 Responsabilidades
                 p Consiste en definir quién participa, qué tarea realiza, en qué tiempo y con qué apoyo. Esta claridad evita confusiones y mejora la coordinación. Por ejemplo, una junta de acción comunal de Antioquia puede asignar responsables para convocar reuniones, gestionar materiales y hacer seguimiento a una vía terciaria local.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t6/img-21.png', alt='')
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Coordinación
+                h3 Coordinación
                 p Permite ordenar la comunicación, los acuerdos y las actividades entre los diferentes actores vinculados a la iniciativa. Su propósito es asegurar que cada acción avance de manera articulada. Por ejemplo, una cooperativa cafetera del Huila puede coordinar productores, transportadores y compradores para cumplir entregas colectivas programadas oportuna y responsablemente.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t6/img-22.png', alt='')
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Riesgos
+                h3 Riesgos
                 p Ayuda a anticipar dificultades que pueden afectar la implementación, como falta de recursos, baja participación, cambios climáticos o problemas de mercado. Por ejemplo, una organización de recicladores en Bogotá puede prever fallas en rutas o equipos y acordar alternativas con entidades ambientales aliadas del distrito local urbano oportunamente comunitarias sostenibles.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t6/img-23.png', alt='')
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
-                h4 Adaptación
+                h3 Adaptación
                 p Establece respuestas oportunas frente a los cambios del entorno y permite ajustar la iniciativa sin perder su propósito. Por ejemplo, una asociación campesina del Tolima puede modificar horarios de venta, buscar nuevos puntos de comercialización o reorganizar turnos cuando disminuye la asistencia de compradores locales en la plaza municipal campesina
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure

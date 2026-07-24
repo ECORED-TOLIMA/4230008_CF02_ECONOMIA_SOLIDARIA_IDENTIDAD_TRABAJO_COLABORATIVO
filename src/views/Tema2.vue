@@ -193,8 +193,10 @@
                   TarjetaAudio.audio-custom.color-secundario.bg-color-white.mb-3(
                     texto="Pódcast"
                     tiempo
-                    :audio="audioPodcast"
+                    :audio="require_src('@/assets/componentes/audios/DOFA_para_organizaciones_solidarias.mp3')"
+                    @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
+                    .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
       p.mb-4 Finalmente, el análisis DOFA es una herramienta dinámica que debe revisarse periódicamente, ya que las condiciones internas y externas de la organización cambian con el tiempo. Su actualización regular permite ajustar las estrategias organizacionales en función de nuevas realidades y mantener la vigencia del diagnóstico. De esta manera, el análisis DOFA se convierte en un instrumento vivo que acompaña el desarrollo continuo de las organizaciones solidarias.
       
@@ -470,20 +472,15 @@
 
 <script>
 export default {
-  name: 'Tema2',
-
-  data() {
-    return {
-      audioPodcast: `${import.meta.env.BASE_URL}audios/`,
-    }
-  },
-
+  components: {},
+  data: () => ({
+    mostrarIndicadorTarjetaAudio: true,
+  }),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
     })
   },
-
   updated() {
     this.$aosRefresh()
   },
