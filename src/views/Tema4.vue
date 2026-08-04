@@ -10,7 +10,7 @@
       figure.mb-4
         img(src='@/assets/curso/temas/t4/img-01.png', alt='')
 
-      p.mb-4 En el desarrollo territorial los activos, capacidades y potencialidades de una comunidad u organización pueden movilizar para fortalecer su crecimiento económico, social y cultural. En el contexto de la economía solidaria, su gestión adecuada favorece la sostenibilidad de las iniciativas, la generación de bienestar colectivo y el uso responsable de los elementos disponibles en el territorio.
+      p.mb-4 En el desarrollo territorial los activos, capacidades y potencialidades de una comunidad u organización pueden movilizarse para fortalecer su crecimiento económico, social y cultural. En el contexto de la economía solidaria, su gestión adecuada favorece la sostenibilidad de las iniciativas, la generación de bienestar colectivo y el uso responsable de los elementos disponibles en el territorio.
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-02

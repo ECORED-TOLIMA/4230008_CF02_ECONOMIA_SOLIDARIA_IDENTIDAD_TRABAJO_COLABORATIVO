@@ -54,7 +54,7 @@
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-05
         .bloque-texto-g__texto.p-4
-          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. Esta perspectiva permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo esta puede aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
+          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. La organización permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo la organización puede aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
 
       p.mb-4 Para comprender mejor este proceso, se presentan las características que orientan su aplicación en organizaciones de economía solidaria:
 
@@ -182,7 +182,7 @@
           figure
             img(src='@/assets/curso/temas/t1/img-16.png', alt='')
         .col.col-lg-6.col-12.order-lg-2.order-2
-          p Finalmente, el concepto de diagnóstico organizacional trasciende el simple análisis de problemas para convertirse en una oportunidad de aprendizaje y transformación colectiva. Al comprender con profundidad las dinámicas internas y externas que afectan a la organización, sus integrantes pueden tomar decisiones más informadas y pertinentes. De esta manera, el diagnóstico organizacional se constituye como un pilar fundamental para el desarrollo sostenible y el fortalecimiento de las organizaciones solidarias.
+          p Finalmente, el concepto de este proceso trasciende el simple análisis de problemas para convertirse en una oportunidad de aprendizaje y transformación colectiva. Al comprender con profundidad las dinámicas internas y externas que afectan a la organización, sus integrantes pueden tomar decisiones más informadas y pertinentes. De esta manera, esta herramienta se constituye como un pilar fundamental para el desarrollo sostenible y el fortalecimiento de las organizaciones solidarias.
           .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
             p.mb-0(data-aos="fade-down") Una vez reconocidos los fundamentos del diagnóstico, conviene analizar la importancia del análisis en contextos comunitarios. En estos escenarios, las decisiones requieren identificar necesidades reales, recursos disponibles y posibilidades de articulación con otros actores del territorio.
 
@@ -194,7 +194,7 @@
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-17
         .bloque-texto-g__texto.p-4
-          p.mb-0(data-aos="fade-down") En las comunidades urbanas y rurales, contar con información organizada permite reconocer la situación real del grupo, sus necesidades principales y las condiciones del entorno donde se desarrolla sus actividades. Esta comprensión facilita tomar decisiones colectivas, priorizar acciones y utilizar de manera responsable los recursos disponibles, especialmente cuando se busca atender problemáticas concretas del territorio.
+          p.mb-0(data-aos="fade-down") En las comunidades urbanas y rurales, contar con información organizada permite reconocer la situación real del grupo, sus necesidades principales y las condiciones del entorno donde se desarrollan sus actividades. Esta comprensión facilita tomar decisiones colectivas, priorizar acciones y utilizar de manera responsable los recursos disponibles, especialmente cuando se busca atender problemáticas concretas del territorio.
 
       p.mb-4 Además de identificar dificultades, este ejercicio permite reconocer capacidades, actores aliados y oportunidades que pueden fortalecer los procesos comunitarios. Por ello, su valor pedagógico está en orientar la reflexión, promover la participación y construir alternativas pertinentes. A continuación, se presentan aspectos que explican su aporte en la gestión comunitaria:
 
@@ -227,7 +227,11 @@
             img(src='@/assets/curso/temas/t1/img-19.svg', alt='')
         .col.col-lg-9.col-12.order-lg-2.order-2
           p.mb-0(data-aos="fade-down") Del mismo modo, este ejercicio permite reconocer oportunidades que podrían pasar inadvertidas en la vida cotidiana. En territorios con potencial productivo y social, ayuda a visibilizar saberes locales, recursos disponibles y capacidades comunitarias que pueden convertirse en alternativas para mejorar el bienestar colectivo.
-
+      
+      .row.justify-content-center
+        .col.col-lg-10.col-12
+          p La importancia del análisis comunitario también puede sintetizarse en los siguientes aportes para la gestión territorial:
+      
       .row.BG03.justify-content-center.px-md-5.px-4.mb-4
         .col.col-lg-4.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
           figure

@@ -682,7 +682,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        'Has superado la actividad. Tus respuestas evidencian comprensión del diagnóstico organizacional, el análisis territorial, los recursos disponibles, el trabajo colaborativo y la formulación de iniciativas solidarias.',
+        'Has superado la actividad. Sus respuestas evidencian comprensión del diagnóstico organizacional, el análisis territorial, los recursos disponibles, el trabajo colaborativo y la formulación de iniciativas solidarias.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

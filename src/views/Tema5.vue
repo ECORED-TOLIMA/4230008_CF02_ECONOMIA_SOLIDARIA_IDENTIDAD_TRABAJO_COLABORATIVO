@@ -374,7 +374,7 @@
           .cajon.cajon.C02.color-secundario.px-4.py-3
             p.mb-0 Estas dinámicas fortalecen la participación porque convierten el diálogo en información organizada para decidir. Cuando se aplican con respeto, claridad y objetivos definidos, los equipos pueden comprender mejor sus retos, distribuir responsabilidades y construir soluciones pertinentes para la organización solidaria.
 
-      p.mb-4 La efectividad del trabajo en equipo también depende de las condiciones en las que se desarrollan estos procedimientos. Por ello, es necesario crear un ambiente de confianza, respeto y comunicación abierta, con roles definidos y mecanismos de seguimiento que permitan avanzar de manera organizada:}
+      p.mb-4 La efectividad del trabajo en equipo también depende de las condiciones en las que se desarrollan estos procedimientos. Por ello, es necesario crear un ambiente de confianza, respeto y comunicación abierta, con roles definidos y mecanismos de seguimiento que permitan avanzar de manera organizada:
 
       .tarjeta.tarjeta--BG02.p-md-5.p-4.mb-4(data-aos="flip-down")
         .tarjeta.tarjeta--blanca.p-4.p-md-5
