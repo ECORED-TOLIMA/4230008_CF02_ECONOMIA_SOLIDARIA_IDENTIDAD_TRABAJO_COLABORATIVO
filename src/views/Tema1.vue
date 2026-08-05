@@ -54,7 +54,7 @@
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-05
         .bloque-texto-g__texto.p-4
-          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. La organización permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo pueden aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
+          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. Esta perspectiva permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo pueden aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
 
       p.mb-4 Para comprender mejor este proceso, se presentan las características que orientan su aplicación en organizaciones de economía solidaria:
 
