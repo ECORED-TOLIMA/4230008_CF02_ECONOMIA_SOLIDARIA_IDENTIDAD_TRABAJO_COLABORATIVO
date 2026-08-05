@@ -228,7 +228,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_4230008_DU.pdf',
+        download: 'downloads/4230008_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -297,7 +297,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Boisier, S. (2005). ¿Hay espacio para el desarrollo local en la globalización? Revista de la CEPAL, 86, 47-62.',
+        'Boisier, S. (2005). ¿Hay espacio para el desarrollo local en la globalización? <em>Revista de la CEPAL, 86</em>, 47-62.',
     },
     {
       referencia:
@@ -309,35 +309,35 @@ export default {
     },
     {
       referencia:
-        'Coraggio, J. L. (2011). Economía social y solidaria: el trabajo antes que el capital. Abya-Yala.',
+        'Coraggio, J. L. (2011). <em>Economía social y solidaria: el trabajo antes que el capital.</em> Abya-Yala.',
     },
     {
       referencia:
-        'Departamento Administrativo Nacional de la Economía Solidaria (DANSOCIAL). (2010). Manual para la promoción, creación y fortalecimiento de organizaciones de economía solidaria.',
+        'Departamento Administrativo Nacional de la Economía Solidaria (DANSOCIAL). (2010). <em>Manual para la promoción, creación y fortalecimiento de organizaciones de economía solidaria.</em>',
     },
     {
       referencia:
-        'Kliksberg, B. (2003). Hacia una economía con rostro humano. Fondo de Cultura Económica.',
+        'Kliksberg, B. (2003). <em>Hacia una economía con rostro humano.</em> Fondo de Cultura Económica.',
     },
     {
       referencia:
-        'Max-Neef, M., Elizalde, A., & Hopenhayn, M. (1994). Desarrollo a escala humana: conceptos, aplicaciones y algunas reflexiones. Icaria Editorial.',
+        'Max-Neef, M., Elizalde, A., & Hopenhayn, M. (1994). <em>Desarrollo a escala humana: conceptos, aplicaciones y algunas reflexiones.</em> Icaria Editorial.',
     },
     {
       referencia:
-        'Razeto, L. (1997). Los caminos de la economía de solidaridad. Vivarium.',
+        'Razeto, L. (1997). <em>Los caminos de la economía de solidaridad.</em> Vivarium.',
     },
     {
       referencia:
-        'Robbins, S. P., & Judge, T. A. (2017). Comportamiento organizacional (17.ª ed.). Pearson.',
+        'Robbins, S. P., & Judge, T. A. (2017). <em>Comportamiento organizacional</em> (17.ª ed.). Pearson.',
     },
     {
       referencia:
-        'Schejtman, A., & Berdegué, J. A. (2004). Desarrollo territorial rural. RIMISP.',
+        'Schejtman, A., & Berdegué, J. A. (2004). <em>Desarrollo territorial rural.</em> RIMISP.',
     },
     {
       referencia:
-        'Superintendencia de la Economía Solidaria. (2023). Informe del sector solidario en Colombia. ',
+        'Superintendencia de la Economía Solidaria. (2023). <em>Informe del sector solidario en Colombia.</em>',
       link: 'https://www.supersolidaria.gov.co',
     },
   ],
@@ -397,8 +397,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'María Fernanda Pineda Mora',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

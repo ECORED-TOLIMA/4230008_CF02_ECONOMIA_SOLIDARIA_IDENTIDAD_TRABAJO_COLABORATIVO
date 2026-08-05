@@ -54,7 +54,7 @@
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-05
         .bloque-texto-g__texto.p-4
-          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. La organización permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo la organización puede aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
+          p.mb-0(data-aos="fade-down") Asimismo, el diagnóstico organizacional en contextos solidarios se caracteriza por su enfoque territorial, es decir, por su capacidad de articular el análisis interno de la organización con el análisis del entorno comunitario y productivo en el que este se desarrolla. La organización permite comprender cómo las condiciones externas influyen en el desempeño de la organización y cómo pueden aprovechar los recursos y oportunidades del territorio para potenciar su desarrollo.
 
       p.mb-4 Para comprender mejor este proceso, se presentan las características que orientan su aplicación en organizaciones de economía solidaria:
 
@@ -64,7 +64,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Participativo
-                p Involucra a líderes, asociados y actores cercanos en el análisis de la organización. Esta característica permite recoger diferentes miradas, validar información y construir acuerdos colectivos sobre necesidades, fortalezas y acciones de mejora pertinentes para la comunidad.
+                p Involucra a líderes, asociados y actores cercanos en el análisis de la organización. Esta enfoque permite recoger diferentes miradas, validar información y construir acuerdos colectivos sobre necesidades, fortalezas y acciones de mejora pertinentes para la comunidad.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t1/img-06.png', alt='')
@@ -85,7 +85,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Orientado a la mejora
-                p Busca reconocer situaciones que pueden fortalecerse mediante acciones concretas, responsables y alcanzables. Esta característica permite que el diagnóstico no se quede en la descripción de problemas, sino que avance hacia soluciones colectivas y sostenibles.
+                p Busca reconocer situaciones que pueden fortalecerse mediante acciones concretas, responsables y alcanzables. Esta orientación facilita que el diagnóstico no se quede en la descripción de problemas, sino que avance hacia soluciones colectivas y sostenibles.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t1/img-09.png', alt='')
@@ -106,7 +106,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Continuo
-                p Se actualiza de manera periódica para reconocer cambios internos y externos. Esta característica permite evaluar avances, ajustar estrategias, aprender de la experiencia y mantener vigente la información necesaria para orientar la gestión organizacional.
+                p Se actualiza de manera periódica para reconocer cambios internos y externos. Este seguimiento ayuda a evaluar avances, ajustar estrategias, aprender de la experiencia y mantener vigente la información necesaria para orientar la gestión organizacional.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t1/img-12.png', alt='')
@@ -182,7 +182,7 @@
           figure
             img(src='@/assets/curso/temas/t1/img-16.png', alt='')
         .col.col-lg-6.col-12.order-lg-2.order-2
-          p Finalmente, el concepto de este proceso trasciende el simple análisis de problemas para convertirse en una oportunidad de aprendizaje y transformación colectiva. Al comprender con profundidad las dinámicas internas y externas que afectan a la organización, sus integrantes pueden tomar decisiones más informadas y pertinentes. De esta manera, esta herramienta se constituye como un pilar fundamental para el desarrollo sostenible y el fortalecimiento de las organizaciones solidarias.
+          p Finalmente, el concepto de diagnóstico organizacional trasciende el simple análisis de problemas para convertirse en una oportunidad de aprendizaje y transformación colectiva. Al comprender con profundidad las dinámicas internas y externas que afectan a la organización, sus integrantes pueden tomar decisiones más informadas y pertinentes. De esta manera, el diagnóstico se constituye como un pilar fundamental para el desarrollo sostenible y el fortalecimiento de las organizaciones solidarias.
           .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
             p.mb-0(data-aos="fade-down") Una vez reconocidos los fundamentos del diagnóstico, conviene analizar la importancia del análisis en contextos comunitarios. En estos escenarios, las decisiones requieren identificar necesidades reales, recursos disponibles y posibilidades de articulación con otros actores del territorio.
 

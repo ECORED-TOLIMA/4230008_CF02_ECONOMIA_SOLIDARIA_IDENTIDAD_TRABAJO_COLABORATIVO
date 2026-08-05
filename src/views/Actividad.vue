@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El diagnóstico organizacional permite analizar la situación de una organización para reconocer fortalezas, debilidades y oportunidades de mejora.',
+            'El diagnóstico organizacional permite analizar la situación de una organización para reconocer fortalezas, debilidades y oportunidades de mejora.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -88,7 +88,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! En la economía solidaria, el diagnóstico es participativo porque integra la voz, la experiencia y los aportes de sus integrantes.',
+            'En la economía solidaria, el diagnóstico es participativo porque integra la voz, la experiencia y los aportes de sus integrantes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -121,7 +121,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis DOFA permite reconocer factores internos y externos para orientar decisiones de mejora en una organización solidaria.',
+            'El análisis DOFA permite reconocer factores internos y externos para orientar decisiones de mejora en una organización solidaria.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -154,7 +154,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La recolección de información aporta datos sobre la situación de la organización y facilita una lectura más clara de su realidad.',
+            'La recolección de información aporta datos sobre la situación de la organización y facilita una lectura más clara de su realidad.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -187,7 +187,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La caracterización del territorio permite recopilar información sobre sus condiciones geográficas, sociales, económicas y culturales.',
+            'La caracterización del territorio permite recopilar información sobre sus condiciones geográficas, sociales, económicas y culturales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -219,7 +219,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los recursos humanos hacen parte de las capacidades del territorio, porque reúnen conocimientos, habilidades y experiencias de las personas.',
+            'Los recursos humanos hacen parte de las capacidades del territorio, porque reúnen conocimientos, habilidades y experiencias de las personas.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -251,7 +251,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El trabajo colaborativo promueve la coordinación de esfuerzos para alcanzar objetivos comunes y fortalecer la acción colectiva.',
+            'El trabajo colaborativo promueve la coordinación de esfuerzos para alcanzar objetivos comunes y fortalecer la acción colectiva.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -284,7 +284,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Una oportunidad es una condición favorable del entorno que puede aprovecharse para fortalecer iniciativas solidarias.',
+            'Una oportunidad es una condición favorable del entorno que puede aprovecharse para fortalecer iniciativas solidarias.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -316,7 +316,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El enfoque participativo permite que los integrantes aporten información, analicen la realidad y construyan acuerdos colectivos.',
+            'El enfoque participativo permite que los integrantes aporten información, analicen la realidad y construyan acuerdos colectivos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -349,7 +349,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El mapa de actores permite identificar personas, organizaciones o instituciones que influyen en una iniciativa o territorio.',
+            'El mapa de actores permite identificar personas, organizaciones o instituciones que influyen en una iniciativa o territorio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -381,7 +381,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La viabilidad económica permite revisar si una iniciativa puede generar ingresos, cubrir costos y sostenerse en el tiempo.',
+            'La viabilidad económica permite revisar si una iniciativa puede generar ingresos, cubrir costos y sostenerse en el tiempo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -413,7 +413,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El capital social está formado por redes de confianza, cooperación y apoyo entre los actores del territorio.',
+            'El capital social está formado por redes de confianza, cooperación y apoyo entre los actores del territorio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -446,7 +446,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Priorizar problemáticas ayuda a concentrar los esfuerzos en las situaciones de mayor impacto para la organización y la comunidad.',
+            'Priorizar problemáticas ayuda a concentrar los esfuerzos en las situaciones de mayor impacto para la organización y la comunidad.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -479,7 +479,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El trabajo colaborativo se distingue porque sus integrantes construyen juntos un resultado común.',
+            'El trabajo colaborativo se distingue porque sus integrantes construyen juntos un resultado común.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -512,7 +512,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La formulación de iniciativas convierte el análisis de oportunidades en propuestas concretas, organizadas y viables.',
+            'La formulación de iniciativas convierte el análisis de oportunidades en propuestas concretas, organizadas y viables.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -545,7 +545,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La articulación comunitaria vincula actores en torno a objetivos comunes y fortalece la cooperación en el territorio.',
+            'La articulación comunitaria vincula actores en torno a objetivos comunes y fortalece la cooperación en el territorio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -577,7 +577,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La recolección de información es una fase clave del diagnóstico, porque permite obtener datos para analizar la realidad organizacional.',
+            'La recolección de información es una fase clave del diagnóstico, porque permite obtener datos para analizar la realidad organizacional.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -610,7 +610,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El análisis del entorno permite reconocer factores externos que influyen en el funcionamiento y desarrollo de la organización.',
+            'El análisis del entorno permite reconocer factores externos que influyen en el funcionamiento y desarrollo de la organización.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -643,7 +643,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Relacionar necesidades y recursos permite identificar brechas, capacidades disponibles y oportunidades para formular iniciativas solidarias.',
+            'Relacionar necesidades y recursos permite identificar brechas, capacidades disponibles y oportunidades para formular iniciativas solidarias.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -676,13 +676,13 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El desarrollo territorial en la economía solidaria busca mejorar la calidad de vida mediante el uso responsable de capacidades y recursos locales.',
+            'El desarrollo territorial en la economía solidaria busca mejorar la calidad de vida mediante el uso responsable de capacidades y recursos locales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
-        'Has superado la actividad. Sus respuestas evidencian comprensión del diagnóstico organizacional, el análisis territorial, los recursos disponibles, el trabajo colaborativo y la formulación de iniciativas solidarias.',
+        '¡Felicitaciones! Se ha superado la actividad. Las respuestas evidencian comprensión del diagnóstico organizacional, el análisis territorial, los recursos disponibles, el trabajo colaborativo y la formulación de iniciativas solidarias.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },
