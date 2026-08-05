@@ -64,7 +64,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Participativo
-                p Involucra a líderes, asociados y actores cercanos en el análisis de la organización. Esta enfoque permite recoger diferentes miradas, validar información y construir acuerdos colectivos sobre necesidades, fortalezas y acciones de mejora pertinentes para la comunidad.
+                p Involucra a líderes, asociados y actores cercanos en el análisis de la organización. Este enfoque permite recoger diferentes miradas, validar información y construir acuerdos colectivos sobre necesidades, fortalezas y acciones de mejora pertinentes para la comunidad.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t1/img-06.png', alt='')
